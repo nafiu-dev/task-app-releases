@@ -1,8 +1,8 @@
 # Task Edge — downloads
 
-Installers for [Task Edge](https://tasked.ge): your tasks and notes in a slim panel on the edge of your screen.
+Installers for [Task Edge](https://taskedge.app): your tasks and notes in a slim panel on the edge of your screen.
 
-**Get the latest version at [tasked.ge](https://tasked.ge)**, or from
+**Get the latest version at [taskedge.app](https://taskedge.app)**, or from
 [Releases → Latest](https://github.com/nafiu-dev/task-app-releases/releases/latest).
 
 | Computer | File |
