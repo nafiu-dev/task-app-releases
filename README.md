@@ -8,7 +8,11 @@ Installers for [Task Edge](https://taskedge.app): your tasks and notes in a slim
 | Computer | File |
 |---|---|
 | Windows 10 or later (64-bit) | `TaskEdge-Setup.exe` |
-| macOS 12 or later (Apple silicon and Intel) | `TaskEdge.dmg` |
+| Mac with Apple silicon (M1 or later), macOS 12 or later | `TaskEdge-arm64.dmg` |
+| Mac with Intel, macOS 12 or later | `TaskEdge-x64.dmg` |
+
+Not sure which Mac you have? Apple menu → **About This Mac**: "Chip: Apple M…" means Apple silicon,
+"Processor: … Intel" means Intel.
 
 ## First launch
 
